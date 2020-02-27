@@ -10,7 +10,7 @@ Is my air clean? Μέτρηση ατμοσφαιρικής ρύπανσης.
 
 Λίστα με υλικό που θα χρειαστεί:
 ARDUINO MKR1000 WIFI,
-LCD DISPLAY MODULE 10,
+LCD DISPLAY MODULE,
 DHT22/AM2302 DIGITAL TEMPERATURE AND
 HUMIDITY SENSOR FOR ARDUINO,
 SHINYEI Dust Sensor PPD42NJ,
